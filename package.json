@@ -1,0 +1,16 @@
+{
+  "name": "walkie-talkie-proto",
+  "version": "1.0.0",
+  "description": "Prototipe walkie-talkie Push-to-Talk real-time (Express + Socket.io + Web Audio API)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
